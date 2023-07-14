@@ -5,17 +5,29 @@ Heart Disease Prediction is a Flask web application that predicts the presence o
 ## Features
 
 **Age**: Enter your age in years.
+
 **Gender**: Select your gender from the options (Female or Male).
+
 **Chest Pain**: Rate your chest pain level based on the provided options (No Chest Pain, Low Chest Pain, Moderate Chest Pain, High Chest Pain).
+
 **Resting Blood Pressure**: Enter your resting blood pressure in mmHg (millimeters of mercury).
+
 **Cholestoral**: Enter your serum cholestoral level in mg/dl (milligrams per deciliter).
+
 **Fasting Blood Sugar**: Select whether your fasting blood sugar level is greater than 120 mg/dl (False or True).
+
 **Resting Electrocardiographic Results**: Select the resting electrocardiographic results from the provided options (0, 1, 2).
+
 **Maximum Heart Rate Achieved**: Enter the maximum heart rate achieved during exercise.
+
 **Exercise Induced Angina**: Select whether you experience exercise-induced angina (No or Yes).
+
 **ST Depression**: Enter the ST depression induced by exercise relative to rest.
+
 **Slope**: Select the slope of the peak exercise ST segment from the provided options (0, 1,2).
+
 **Number of Major Vessels**: Select the number of major vessels colored by fluoroscopy from the provided options (0, 1, 2, 3, 4).
+
 **Thal**: Select the type of thalassemia from the provided options (0, Normal Defect, Fixed Defect, Reversible Defect).
 
 ## Prerequisites(reqirements.txt)
